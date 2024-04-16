@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DesignPatterns/obj/Debug/net6.0/ref/DesignPatterns.dll
+/DesignPatterns/obj/Debug/net6.0/ref
+/DesignPatterns/obj/Debug/net6.0/DesignPatterns.pdb
+/DesignPatterns/obj/Debug/net6.0/DesignPatterns.genruntimeconfig.cache
+/DesignPatterns/obj/Debug/net6.0/DesignPatterns.dll
+/DesignPatterns/obj/Debug/net6.0/apphost.exe
+/DesignPatterns/obj/Debug/net6.0
+/DesignPatterns/bin/Debug/net6.0/ref/DesignPatterns.dll
+/DesignPatterns/bin/Debug/net6.0/ref
+/DesignPatterns/bin/Debug/net6.0/DesignPatterns.runtimeconfig.json
+/DesignPatterns/bin/Debug/net6.0/DesignPatterns.pdb
+/DesignPatterns/bin/Debug/net6.0/DesignPatterns.exe
+/DesignPatterns/bin/Debug/net6.0/DesignPatterns.dll
+/DesignPatterns/bin/Debug/net6.0/DesignPatterns.deps.json
+/DesignPatterns/bin/Debug/net6.0
+/DesignPatterns
