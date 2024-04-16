@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using DesignPatterns;
+using DesignPatterns.BuilderPatternTask;
 //Singleton
 Console.WriteLine("Hello, World!");
 CandyMaker candyMaker = CandyMaker.Instance;
@@ -17,3 +18,8 @@ customBrowser.Initialize();
 factory = new ChromeDriverWithCapabilitiesFactory();
 customBrowser = factory.CreateBrowser();
 customBrowser.Initialize();
+
+//BuilderPattern 
+var builder = new BicycleBuilder();
+// have a bicycle with gears and double stand
+Bicycle bicycle = builder.WithGears().WithDoubleStand().Build();
