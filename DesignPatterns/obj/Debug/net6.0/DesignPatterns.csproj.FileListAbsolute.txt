@@ -1,0 +1,5 @@
+C:\Users\Gargi_Joshi\Source\Repos\DesignPatternTasks\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\Gargi_Joshi\Source\Repos\DesignPatternTasks\DesignPatterns\obj\Debug\net6.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gargi_Joshi\Source\Repos\DesignPatternTasks\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Gargi_Joshi\Source\Repos\DesignPatternTasks\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfo.cs
+C:\Users\Gargi_Joshi\Source\Repos\DesignPatternTasks\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.CoreCompileInputs.cache
