@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using DesignPatterns;
 using DesignPatterns.BuilderPatternTask;
+using DesignPatterns.DecoratorPatternTask;
 using DesignPatterns.StrategyPatternTask;
 //Singleton
 Console.WriteLine("Hello, World!");
@@ -32,3 +33,8 @@ phoneCameraApp.Share("Sharing this gorgeous photo");
 
 phoneCameraApp.SetSocialMediaStrategy(new TextShareStrategy());
 phoneCameraApp.Share("Sharing this gorgeous photo");
+
+//DecoratorPattern
+IWebpage myWebPage = new DesktopPage();
+myWebPage = new Widget(myWebPage);
+Console.WriteLine(myWebPage.GetRank());
